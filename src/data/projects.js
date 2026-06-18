@@ -24,7 +24,7 @@ export const projects = [
       "https://github.com/Tyroneekhator/stock-price-prediction-react-project",
     demoVideo:
       "https://drive.google.com/file/d/1MVziGXgl-6GnK7xSpdbSh8uyMQiPaR3x/view?usp=drive_link",
-    liveSite: "",
+    liveSite: "https://stock-price-prediction-react-projec.vercel.app/",
   },
   {
     title: "Nigerian Real Estate Price Prediction",
