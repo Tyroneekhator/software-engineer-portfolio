@@ -10,6 +10,7 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/md-registry-system",
     demoVideo:
       "https://drive.google.com/file/d/1Mk6aVBWEpaLj4wwwmDC6DvcxDo40el_l/view?usp=drive_link",
+    liveSite: "https://software-engineer-portfolio-b738.vercel.app/",
   },
   {
     title: "Stock Price Prediction System",
@@ -23,6 +24,7 @@ export const projects = [
       "https://github.com/Tyroneekhator/stock-price-prediction-react-project",
     demoVideo:
       "https://drive.google.com/file/d/1MVziGXgl-6GnK7xSpdbSh8uyMQiPaR3x/view?usp=drive_link",
+    liveSite: "",
   },
   {
     title: "Nigerian Real Estate Price Prediction",
@@ -36,6 +38,7 @@ export const projects = [
       "https://github.com/Tyroneekhator/real-estate-price-prediction-streamlit",
     demoVideo:
       "https://drive.google.com/file/d/11iOGHdNFCSkk-4NrYXPiIbmfVvEHpHc2/view?usp=drive_link",
+    liveSite: "",
   },
   {
     title: "RapNation Event Website",
@@ -48,6 +51,7 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/rap-event-website",
     demoVideo:
       "https://drive.google.com/file/d/1Bb4gb6WFsHReFk_CTuQANA-ql46pHwTs/view?usp=drive_link",
+    liveSite: "",
   },
   {
     title: "Smart Customer Support Chatbot",
@@ -60,5 +64,6 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/smart-customer-support-chatbot",
     demoVideo:
       "https://drive.google.com/file/d/1B9Z7DNIH85Z_q9rMXUWAWN0j3wvgzgIY/view?usp=drive_link",
+    liveSite: "",
   },
 ];

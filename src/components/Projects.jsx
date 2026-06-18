@@ -9,6 +9,7 @@ import {
   FaCode,
   FaHome,
   FaLayerGroup,
+  FaExternalLinkAlt,
 } from "react-icons/fa";
 
 import { projects } from "../data/projects";
@@ -183,6 +184,23 @@ function Projects() {
                       <span className="inline-flex cursor-not-allowed items-center gap-2 rounded-xl bg-slate-800 px-5 py-3 text-sm font-bold text-slate-400">
                         <FaClock />
                         Demo Coming Soon
+                      </span>
+                    )}
+                    
+                    {project.liveSite ? (
+                      <a
+                        href={project.liveSite}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center gap-2 rounded-xl bg-cyan-500 px-5 py-3 text-sm font-bold text-slate-950 shadow-lg shadow-cyan-500/20 transition hover:-translate-y-1 hover:bg-cyan-400"
+                      >
+                        <FaExternalLinkAlt />
+                        Live Site
+                      </a>
+                    ) : (
+                      <span className="inline-flex cursor-not-allowed items-center gap-2 rounded-xl bg-slate-800 px-5 py-3 text-sm font-bold text-slate-500">
+                        <FaClock />
+                        Live Site Coming Soon
                       </span>
                     )}
                   </div>
