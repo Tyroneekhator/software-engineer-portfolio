@@ -38,7 +38,8 @@ export const projects = [
       "https://github.com/Tyroneekhator/real-estate-price-prediction-streamlit",
     demoVideo:
       "https://drive.google.com/file/d/11iOGHdNFCSkk-4NrYXPiIbmfVvEHpHc2/view?usp=drive_link",
-    liveSite: "",
+    liveSite:
+      "https://real-estate-price-prediction-app-tyrone-ekhator.streamlit.app/",
   },
   {
     title: "RapNation Event Website",
@@ -51,7 +52,7 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/rap-event-website",
     demoVideo:
       "https://drive.google.com/file/d/1Bb4gb6WFsHReFk_CTuQANA-ql46pHwTs/view?usp=drive_link",
-    liveSite: "",
+    liveSite: "https://rap-event-website-production.up.railway.app/",
   },
   {
     title: "Smart Customer Support Chatbot",
@@ -64,6 +65,6 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/smart-customer-support-chatbot",
     demoVideo:
       "https://drive.google.com/file/d/1B9Z7DNIH85Z_q9rMXUWAWN0j3wvgzgIY/view?usp=drive_link",
-    liveSite: "",
+    liveSite: "https://smart-customer-support-chatbot-one.vercel.app/",
   },
 ];
