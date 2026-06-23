@@ -10,7 +10,7 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/md-registry-system",
     demoVideo:
       "https://drive.google.com/file/d/1Mk6aVBWEpaLj4wwwmDC6DvcxDo40el_l/view?usp=drive_link",
-    liveSite: "https://software-engineer-portfolio-b738.vercel.app/",
+    liveSite: null,
   },
   {
     title: "Stock Price Prediction System",

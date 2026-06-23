@@ -119,7 +119,7 @@ function Contact() {
                 </a>
 
                 <a
-                  href="/Tyrone_Ekhator_Software_Engineer_CV.docx"
+                  href="/Tyrone_Ekhator_Software_Engineer_CV.pdf"
                   className="inline-flex items-center gap-2 rounded-xl border border-slate-700 bg-slate-950/60 px-5 py-3 text-sm font-bold text-white transition hover:-translate-y-1 hover:border-cyan-400 hover:text-cyan-400"
                 >
                   <FaDownload />

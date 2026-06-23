@@ -186,7 +186,7 @@ function Projects() {
                         Demo Coming Soon
                       </span>
                     )}
-                    
+
                     {project.liveSite ? (
                       <a
                         href={project.liveSite}
@@ -200,7 +200,9 @@ function Projects() {
                     ) : (
                       <span className="inline-flex cursor-not-allowed items-center gap-2 rounded-xl bg-slate-800 px-5 py-3 text-sm font-bold text-slate-500">
                         <FaClock />
-                        Live Site Coming Soon
+                        {project.title === "MD Registry System"
+                          ? "Live Site Unavailable"
+                          : "Live Site Coming Soon"}
                       </span>
                     )}
                   </div>
