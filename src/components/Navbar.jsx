@@ -28,8 +28,10 @@ function Navbar() {
         </div>
 
         <a
-          href="/Tyrone_Ekhator_Software_Engineer_CV.docx"
-          className="rounded-xl bg-blue-500 px-4 py-2 text-sm font-semibold text-white transition hover:bg-blue-600"
+          href="/Tyrone_Ekhator_Software_Engineer_CV.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-xl bg-blue-500 px-4 py-2 text-sm font-semibold text-white transition hover:bg-blue-600 nav-cv-glow"
         >
           Download CV
         </a>

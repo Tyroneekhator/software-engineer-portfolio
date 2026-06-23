@@ -5,6 +5,7 @@ import {
   FaArrowRight,
   FaCode,
   FaRobot,
+  FaEye,
   FaDatabase,
   FaServer,
 } from "react-icons/fa";
@@ -94,10 +95,12 @@ function Hero() {
 
             <a
               href="/Tyrone_Ekhator_Software_Engineer_CV.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl border border-slate-700 bg-slate-900/60 px-6 py-3 font-semibold text-white transition hover:-translate-y-1 hover:border-cyan-400 hover:text-cyan-400"
             >
-              <FaDownload />
-              Download CV
+              <FaEye />
+              View CV
             </a>
 
             <a

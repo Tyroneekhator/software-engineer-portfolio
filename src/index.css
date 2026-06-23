@@ -128,3 +128,21 @@ button:focus-visible {
     transition-duration: 0.01ms !important;
   }
 }
+
+
+.nav-cv-glow {
+  color: #ffffff;
+  background: #38bdf8;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 0 16px rgba(56, 189, 248, 0.75);
+  transition: all 0.3s ease;
+}
+
+.nav-cv-glow:hover {
+  background: #38bdf8;
+  box-shadow: 0 0 16px rgba(56, 189, 248, 0.75);
+  transform: translateY(-2px);
+}
