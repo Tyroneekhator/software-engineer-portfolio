@@ -65,6 +65,6 @@ export const projects = [
     github: "https://github.com/Tyroneekhator/smart-customer-support-chatbot",
     demoVideo:
       "https://drive.google.com/file/d/1B9Z7DNIH85Z_q9rMXUWAWN0j3wvgzgIY/view?usp=drive_link",
-    liveSite: "https://smart-customer-support-chatbot-one.vercel.app/",
+    liveSite: "https://smart-customer-support-chatbot-alpha.vercel.app/",
   },
 ];
