@@ -1,4 +1,17 @@
 export const projects = [
+   {
+    title: "Smart Customer Support Chatbot",
+    subtitle: "AI Customer Support Chatbot",
+    category: "AI Chatbot",
+    iconType: "chatbot",
+    description:
+      "AI-powered customer support chatbot designed to handle user queries, provide automated responses, improve support workflows, and demonstrate chatbot-based software engineering skills.",
+    tech: ["Python", "AI Chatbot", "Machine Learning", "NLP"],
+    github: "https://github.com/Tyroneekhator/smart-customer-support-chatbot",
+    demoVideo:
+      "https://drive.google.com/file/d/111IwmYNSjFukzbHmPZJrS0JEyIgwM6Rt/view?usp=drive_link",
+    liveSite: "https://smart-customer-support-chatbot-alpha.vercel.app/",
+  },
   {
     title: "MD Registry System",
     subtitle: "Django Records Management Platform",
@@ -53,18 +66,5 @@ export const projects = [
     demoVideo:
       "https://drive.google.com/file/d/1Bb4gb6WFsHReFk_CTuQANA-ql46pHwTs/view?usp=drive_link",
     liveSite: "https://rap-event-website-production.up.railway.app/",
-  },
-  {
-    title: "Smart Customer Support Chatbot",
-    subtitle: "AI Customer Support Chatbot",
-    category: "AI Chatbot",
-    iconType: "chatbot",
-    description:
-      "AI-powered customer support chatbot designed to handle user queries, provide automated responses, improve support workflows, and demonstrate chatbot-based software engineering skills.",
-    tech: ["Python", "AI Chatbot", "Machine Learning", "NLP"],
-    github: "https://github.com/Tyroneekhator/smart-customer-support-chatbot",
-    demoVideo:
-      "https://drive.google.com/file/d/111IwmYNSjFukzbHmPZJrS0JEyIgwM6Rt/view?usp=drive_link",
-    liveSite: "https://smart-customer-support-chatbot-alpha.vercel.app/",
   },
 ];
