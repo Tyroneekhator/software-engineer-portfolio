@@ -13,19 +13,6 @@ export const projects = [
     liveSite: "https://smart-customer-support-chatbot-alpha.vercel.app/",
   },
   {
-    title: "MD Registry System",
-    subtitle: "Django Records Management Platform",
-    category: "Full-Stack System",
-    iconType: "registry",
-    description:
-      "Django-based office records management system for tracking incoming and outgoing documents, approvals, attachments, audit logs, Excel import/export, and role-based access.",
-    tech: ["Python", "Django", "SQL Server", "JavaScript"],
-    github: "https://github.com/Tyroneekhator/md-registry-system",
-    demoVideo:
-      "https://drive.google.com/file/d/1Mk6aVBWEpaLj4wwwmDC6DvcxDo40el_l/view?usp=drive_link",
-    liveSite: null,
-  },
-  {
     title: "Stock Price Prediction System",
     subtitle: "React + FastAPI Machine Learning App",
     category: "AI / Machine Learning",
@@ -66,5 +53,18 @@ export const projects = [
     demoVideo:
       "https://drive.google.com/file/d/1Bb4gb6WFsHReFk_CTuQANA-ql46pHwTs/view?usp=drive_link",
     liveSite: "https://rap-event-website-production.up.railway.app/",
+  },
+   {
+    title: "MD Registry System",
+    subtitle: "Django Records Management Platform",
+    category: "Full-Stack System",
+    iconType: "registry",
+    description:
+      "Django-based office records management system for tracking incoming and outgoing documents, approvals, attachments, audit logs, Excel import/export, and role-based access.",
+    tech: ["Python", "Django", "SQL Server", "JavaScript"],
+    github: "https://github.com/Tyroneekhator/md-registry-system",
+    demoVideo:
+      "https://drive.google.com/file/d/1Mk6aVBWEpaLj4wwwmDC6DvcxDo40el_l/view?usp=drive_link",
+    liveSite: null,
   },
 ];
